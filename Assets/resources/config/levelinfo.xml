@@ -1,0 +1,1694 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LevelConfig>
+	<LevelInfolist>
+		<LevelInfo id="L101" sceneid="s01" formation="nm3" name="古战场1" Des="古战场1" Openlevel="&quot;&quot;" IsHide="false" drop="2201" dropcount="6">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L102" sceneid="s01" formation="nm4" name="古战场2" Des="古战场2" Openlevel="&quot;&quot;" IsHide="false" drop="2202" dropcount="6">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L103" sceneid="s01" formation="nm5" name="古战场3" Des="古战场3" Openlevel="&quot;&quot;" IsHide="false" drop="2203" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L104" sceneid="s01" formation="nm3" name="古战场4" Des="古战场4" Openlevel="&quot;&quot;" IsHide="false" drop="2204" dropcount="6">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L105" sceneid="s01" formation="nm4" name="古战场5" Des="古战场5" Openlevel="&quot;&quot;" IsHide="false" drop="2205" dropcount="3">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L106" sceneid="s01" formation="nm5" name="古战场6" Des="古战场6" Openlevel="&quot;&quot;" IsHide="false" drop="2206" dropcount="5">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L107" sceneid="s01" formation="nm3" name="古战场7" Des="古战场7" Openlevel="&quot;&quot;" IsHide="false" drop="2207" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L01" sceneid="s03" formation="101" name="白帝城守军1" Des="白帝城守军1" Openlevel="&quot;&quot;" IsHide="false" drop="1,2,17,20" dropcount="1,2,1,1">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L02" sceneid="s05" formation="102" name="白帝城守军2" Des="白帝城守军2" Openlevel="L01" IsHide="false" drop="2,4" dropcount="2,30">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L03" sceneid="s03" formation="201" name="汉中守军1" Des="汉中守军1" Openlevel="L02" IsHide="false" drop="5,2,16" dropcount="2,2,1">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L04" sceneid="s03" formation="202" name="汉中守军2" Des="汉中守军2" Openlevel="L03" IsHide="false" drop="4" dropcount="2">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L05" sceneid="s03" formation="301" name="剑阁守军1" Des="剑阁守军1" Openlevel="L04" IsHide="false" drop="1,2,15" dropcount="3,3,1">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L06" sceneid="s03" formation="302" name="剑阁守军2" Des="剑阁守军2" Openlevel="L05" IsHide="false" drop="4" dropcount="2">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L07" sceneid="s03" formation="401" name="成都守军1" Des="成都守军1" Openlevel="L06" IsHide="false" drop="2" dropcount="3">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L08" sceneid="s03" formation="402" name="成都守军2" Des="成都守军2" Openlevel="L07" IsHide="false" drop="1,5,7,8" dropcount="4,2,2,1">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L09" sceneid="s03" formation="403" name="成都守军3" Des="成都守军3" Openlevel="L08" IsHide="false" drop="1,2" dropcount="4,4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L10" sceneid="s03" formation="404" name="成都守军4" Des="成都守军4" Openlevel="L09" IsHide="false" drop="1,5,9" dropcount="5,5,5">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L501" sceneid="s03" formation="501" name="街亭守军1" Des="街亭守军1" Openlevel="L10" IsHide="false" drop="2,18" dropcount="1,1">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L502" sceneid="s03" formation="502" name="街亭守军2" Des="街亭守军2" Openlevel="L501" IsHide="false" drop="1,4" dropcount="5,3">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L503" sceneid="s03" formation="503" name="街亭守军3" Des="街亭守军3" Openlevel="L502" IsHide="false" drop="1,2" dropcount="5,5">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L504" sceneid="s03" formation="504" name="街亭守军4" Des="街亭守军4" Openlevel="L503" IsHide="false" drop="1" dropcount="3">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L505" sceneid="s03" formation="505" name="街亭守军5" Des="街亭守军5" Openlevel="L504" IsHide="false" drop="1,4" dropcount="5,3">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L506" sceneid="s03" formation="506" name="街亭守军6" Des="街亭守军6" Openlevel="L505" IsHide="false" drop="2,10" dropcount="2,5">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L601" sceneid="s03" formation="601" name="五丈原守军1" Des="五丈原守军1" Openlevel="L506" IsHide="false" drop="1,2,19" dropcount="5,5,1">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L602" sceneid="s03" formation="602" name="五丈原守军2" Des="五丈原守军2" Openlevel="L601" IsHide="false" drop="1,2" dropcount="5,5">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L603" sceneid="s03" formation="603" name="五丈原守军3" Des="五丈原守军3" Openlevel="L602" IsHide="false" drop="1,2,4" dropcount="5,5,3">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L604" sceneid="s03" formation="604" name="五丈原守军4" Des="五丈原守军4" Openlevel="L603" IsHide="false" drop="1" dropcount="400">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L605" sceneid="s03" formation="605" name="五丈原守军5" Des="五丈原守军5" Openlevel="L604" IsHide="false" drop="2,4" dropcount="5,3">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L606" sceneid="s03" formation="606" name="五丈原守军6" Des="五丈原守军6" Openlevel="L605" IsHide="false" drop="1,2,11" dropcount="5,2,10">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.605128"/>
+		</LevelInfo>
+		<LevelInfo id="L701" sceneid="s03" formation="701" name="定军山守军1" Des="定军山守军1" Openlevel="L606" IsHide="false" drop="1" dropcount="5">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L702" sceneid="s03" formation="702" name="定军山守军2" Des="定军山守军2" Openlevel="L701" IsHide="false" drop="2,4" dropcount="10,3">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L703" sceneid="s03" formation="703" name="定军山守军3" Des="定军山守军3" Openlevel="L702" IsHide="false" drop="1" dropcount="5">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L704" sceneid="s03" formation="704" name="定军山守军4" Des="定军山守军4" Openlevel="L703" IsHide="false" drop="1,4" dropcount="50,3">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L705" sceneid="s03" formation="705" name="定军山守军5" Des="定军山守军5" Openlevel="L704" IsHide="false" drop="2" dropcount="10">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L706" sceneid="s03" formation="706" name="定军山守军6" Des="定军山守军6" Openlevel="L705" IsHide="false" drop="1,2,12" dropcount="10,2,15">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L801" sceneid="s03" formation="801" name="长安守军1" Des="长安守军1" Openlevel="L706" IsHide="false" drop="1,4" dropcount="10,3">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L802" sceneid="s03" formation="802" name="长安守军2" Des="长安守军2" Openlevel="L801" IsHide="false" drop="1" dropcount="10">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L803" sceneid="s03" formation="803" name="长安守军3" Des="长安守军3" Openlevel="L802" IsHide="false" drop="1" dropcount="10">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L804" sceneid="s03" formation="804" name="长安守军4" Des="长安守军4" Openlevel="L803" IsHide="false" drop="1" dropcount="10">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L805" sceneid="s03" formation="805" name="长安守军5" Des="长安守军5" Openlevel="L804" IsHide="false" drop="2" dropcount="15">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L806" sceneid="s03" formation="806" name="长安守军6" Des="长安守军6" Openlevel="L805" IsHide="false" drop="1" dropcount="10">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L807" sceneid="s03" formation="807" name="长安守军7" Des="长安守军7" Openlevel="L806" IsHide="false" drop="1,2" dropcount="10,15">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L808" sceneid="s03" formation="808" name="长安守军8" Des="长安守军8" Openlevel="L807" IsHide="false" drop="1" dropcount="10">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L809" sceneid="s03" formation="809" name="长安守军9" Des="长安守军9" Openlevel="L808" IsHide="false" drop="1" dropcount="10">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L810" sceneid="s03" formation="810" name="长安守军10" Des="长安守军10" Openlevel="L809" IsHide="false" drop="1,2,5,13" dropcount="15,15,10,5">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L901" sceneid="s03" formation="403" name="广宗守军1" Des="广宗守军1" Openlevel="L810" IsHide="false" drop="1,2,5,13" dropcount="15,15,10,5">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.905128"/>
+		</LevelInfo>
+		<LevelInfo id="L902" sceneid="s03" formation="404" name="广宗守军2" Des="广宗守军2" Openlevel="L901" IsHide="false" drop="2" dropcount="15">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.905128"/>
+		</LevelInfo>
+		<LevelInfo id="L903" sceneid="s03" formation="101" name="广宗守军3" Des="广宗守军3" Openlevel="L902" IsHide="false" drop="1" dropcount="10">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.905128"/>
+		</LevelInfo>
+		<LevelInfo id="L904" sceneid="s03" formation="102" name="广宗守军4" Des="广宗守军4" Openlevel="L903" IsHide="false" drop="1,2" dropcount="10,15">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.905128"/>
+		</LevelInfo>
+		<LevelInfo id="L905" sceneid="s03" formation="201" name="广宗守军5" Des="广宗守军5" Openlevel="L904" IsHide="false" drop="1" dropcount="10">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.905128"/>
+		</LevelInfo>
+		<LevelInfo id="L906" sceneid="s03" formation="202" name="广宗守军6" Des="广宗守军6" Openlevel="L905" IsHide="false" drop="1" dropcount="10">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.905128"/>
+		</LevelInfo>
+		<LevelInfo id="L1001" sceneid="s03" formation="301" name="曲阳守军1" Des="曲阳守军1" Openlevel="L906" IsHide="false" drop="1,2,14" dropcount="15,15,5">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.1005128"/>
+		</LevelInfo>
+		<LevelInfo id="L1002" sceneid="s03" formation="302" name="曲阳守军2" Des="曲阳守军2" Openlevel="L1001" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.1005128"/>
+		</LevelInfo>
+		<LevelInfo id="L1003" sceneid="s03" formation="401" name="曲阳守军3" Des="曲阳守军3" Openlevel="L1002" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.1005128"/>
+		</LevelInfo>
+		<LevelInfo id="L1004" sceneid="s03" formation="402" name="曲阳守军4" Des="曲阳守军4" Openlevel="L1003" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.1005128"/>
+		</LevelInfo>
+		<LevelInfo id="L1005" sceneid="s03" formation="403" name="曲阳守军5" Des="曲阳守军5" Openlevel="L1004" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.1005128"/>
+		</LevelInfo>
+		<LevelInfo id="L1006" sceneid="s03" formation="404" name="曲阳守军6" Des="曲阳守军6" Openlevel="L1005" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.1005128"/>
+		</LevelInfo>
+		<LevelInfo id="L1101" sceneid="s03" formation="101" name="虎牢关守军1" Des="虎牢关守军1" Openlevel="L1006" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1102" sceneid="s03" formation="102" name="虎牢关守军2" Des="虎牢关守军2" Openlevel="L1101" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1103" sceneid="s03" formation="201" name="虎牢关守军3" Des="虎牢关守军3" Openlevel="L1102" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1104" sceneid="s03" formation="202" name="虎牢关守军4" Des="虎牢关守军4" Openlevel="L1103" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1105" sceneid="s03" formation="301" name="虎牢关守军5" Des="虎牢关守军5" Openlevel="L1104" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1106" sceneid="s03" formation="302" name="虎牢关守军6" Des="虎牢关守军6" Openlevel="L1105" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1107" sceneid="s03" formation="401" name="虎牢关守军7" Des="虎牢关守军7" Openlevel="L1106" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1108" sceneid="s03" formation="402" name="虎牢关守军8" Des="虎牢关守军8" Openlevel="L1107" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1201" sceneid="s03" formation="403" name="涿郡守军1" Des="涿郡守军1" Openlevel="L1108" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1202" sceneid="s03" formation="404" name="涿郡守军2" Des="涿郡守军2" Openlevel="L1201" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1203" sceneid="s03" formation="101" name="涿郡守军3" Des="涿郡守军3" Openlevel="L1202" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1204" sceneid="s03" formation="102" name="涿郡守军4" Des="涿郡守军4" Openlevel="L1203" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1205" sceneid="s03" formation="201" name="涿郡守军5" Des="涿郡守军5" Openlevel="L1204" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1206" sceneid="s03" formation="202" name="涿郡守军6" Des="涿郡守军6" Openlevel="L1205" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1207" sceneid="s03" formation="301" name="涿郡守军7" Des="涿郡守军7" Openlevel="L1206" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1208" sceneid="s03" formation="302" name="涿郡守军8" Des="涿郡守军8" Openlevel="L1207" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1209" sceneid="s03" formation="401" name="涿郡守军9" Des="涿郡守军9" Openlevel="L1208" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1210" sceneid="s03" formation="402" name="涿郡守军10" Des="涿郡守军10" Openlevel="L1209" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1301" sceneid="s03" formation="403" name="界桥守军1" Des="界桥守军1" Openlevel="L1210" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1302" sceneid="s03" formation="404" name="界桥守军2" Des="界桥守军2" Openlevel="L1301" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1303" sceneid="s03" formation="101" name="界桥守军3" Des="界桥守军3" Openlevel="L1302" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1304" sceneid="s03" formation="102" name="界桥守军4" Des="界桥守军4" Openlevel="L1303" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1305" sceneid="s03" formation="201" name="界桥守军5" Des="界桥守军5" Openlevel="L1304" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1306" sceneid="s03" formation="202" name="界桥守军6" Des="界桥守军6" Openlevel="L1305" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1307" sceneid="s03" formation="301" name="界桥守军7" Des="界桥守军7" Openlevel="L1306" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1308" sceneid="s03" formation="302" name="界桥守军8" Des="界桥守军8" Openlevel="L1307" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1309" sceneid="s03" formation="401" name="界桥守军9" Des="界桥守军9" Openlevel="L1308" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1310" sceneid="s03" formation="402" name="界桥守军10" Des="界桥守军10" Openlevel="L1309" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1311" sceneid="s03" formation="403" name="界桥守军11" Des="界桥守军11" Openlevel="L1310" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1312" sceneid="s03" formation="404" name="界桥守军12" Des="界桥守军12" Openlevel="L1311" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1313" sceneid="s03" formation="101" name="界桥守军13" Des="界桥守军13" Openlevel="L1312" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1314" sceneid="s03" formation="102" name="界桥守军14" Des="界桥守军14" Openlevel="L1313" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1315" sceneid="s03" formation="201" name="界桥守军15" Des="界桥守军15" Openlevel="L1314" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1316" sceneid="s03" formation="202" name="界桥守军16" Des="界桥守军16" Openlevel="L1315" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1317" sceneid="s03" formation="301" name="界桥守军17" Des="界桥守军17" Openlevel="L1316" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1318" sceneid="s03" formation="302" name="界桥守军18" Des="界桥守军18" Openlevel="L1317" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1319" sceneid="s03" formation="401" name="界桥守军19" Des="界桥守军19" Openlevel="L1318" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1320" sceneid="s03" formation="402" name="界桥守军20" Des="界桥守军20" Openlevel="L1319" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1401" sceneid="s03" formation="403" name="官渡守军1" Des="官渡守军1" Openlevel="L1320" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1402" sceneid="s03" formation="404" name="官渡守军2" Des="官渡守军2" Openlevel="L1401" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1403" sceneid="s03" formation="101" name="官渡守军3" Des="官渡守军3" Openlevel="L1402" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1404" sceneid="s03" formation="102" name="官渡守军4" Des="官渡守军4" Openlevel="L1403" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1405" sceneid="s03" formation="201" name="官渡守军5" Des="官渡守军5" Openlevel="L1404" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1406" sceneid="s03" formation="202" name="官渡守军6" Des="官渡守军6" Openlevel="L1405" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1407" sceneid="s03" formation="301" name="官渡守军7" Des="官渡守军7" Openlevel="L1406" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1408" sceneid="s03" formation="302" name="官渡守军8" Des="官渡守军8" Openlevel="L1407" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1409" sceneid="s03" formation="401" name="官渡守军9" Des="官渡守军9" Openlevel="L1408" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1410" sceneid="s03" formation="402" name="官渡守军10" Des="官渡守军10" Openlevel="L1409" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1411" sceneid="s03" formation="403" name="官渡守军11" Des="官渡守军11" Openlevel="L1410" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1412" sceneid="s03" formation="404" name="官渡守军12" Des="官渡守军12" Openlevel="L1411" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1413" sceneid="s03" formation="101" name="官渡守军13" Des="官渡守军13" Openlevel="L1412" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1414" sceneid="s03" formation="102" name="官渡守军14" Des="官渡守军14" Openlevel="L1413" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1415" sceneid="s03" formation="201" name="官渡守军15" Des="官渡守军15" Openlevel="L1414" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1416" sceneid="s03" formation="202" name="官渡守军16" Des="官渡守军16" Openlevel="L1415" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1417" sceneid="s03" formation="301" name="官渡守军17" Des="官渡守军17" Openlevel="L1416" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1418" sceneid="s03" formation="302" name="官渡守军18" Des="官渡守军18" Openlevel="L1417" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1419" sceneid="s03" formation="401" name="官渡守军19" Des="官渡守军19" Openlevel="L1418" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1420" sceneid="s03" formation="402" name="官渡守军20" Des="官渡守军20" Openlevel="L1419" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1501" sceneid="s03" formation="403" name="易京守军1" Des="易京守军1" Openlevel="L1420" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1502" sceneid="s03" formation="404" name="易京守军2" Des="易京守军2" Openlevel="L1501" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1503" sceneid="s03" formation="101" name="易京守军3" Des="易京守军3" Openlevel="L1502" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1504" sceneid="s03" formation="102" name="易京守军4" Des="易京守军4" Openlevel="L1503" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1505" sceneid="s03" formation="201" name="易京守军5" Des="易京守军5" Openlevel="L1504" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1506" sceneid="s03" formation="202" name="易京守军6" Des="易京守军6" Openlevel="L1505" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1507" sceneid="s03" formation="301" name="易京守军7" Des="易京守军7" Openlevel="L1506" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1508" sceneid="s03" formation="302" name="易京守军8" Des="易京守军8" Openlevel="L1507" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1509" sceneid="s03" formation="401" name="易京守军9" Des="易京守军9" Openlevel="L1508" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1510" sceneid="s03" formation="402" name="易京守军10" Des="易京守军10" Openlevel="L1509" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1511" sceneid="s03" formation="403" name="易京守军11" Des="易京守军11" Openlevel="L1510" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1512" sceneid="s03" formation="404" name="易京守军12" Des="易京守军12" Openlevel="L1511" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1513" sceneid="s03" formation="101" name="易京守军13" Des="易京守军13" Openlevel="L1512" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1514" sceneid="s03" formation="102" name="易京守军14" Des="易京守军14" Openlevel="L1513" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1515" sceneid="s03" formation="201" name="易京守军15" Des="易京守军15" Openlevel="L1514" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1516" sceneid="s03" formation="202" name="易京守军16" Des="易京守军16" Openlevel="L1515" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1517" sceneid="s03" formation="301" name="易京守军17" Des="易京守军17" Openlevel="L1516" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1518" sceneid="s03" formation="302" name="易京守军18" Des="易京守军18" Openlevel="L1517" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1519" sceneid="s03" formation="401" name="易京守军19" Des="易京守军19" Openlevel="L1518" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1520" sceneid="s03" formation="402" name="易京守军20" Des="易京守军20" Openlevel="L1519" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1601" sceneid="s03" formation="403" name="南皮守军1" Des="南皮守军1" Openlevel="L1520" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1602" sceneid="s03" formation="404" name="南皮守军2" Des="南皮守军2" Openlevel="L1601" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1603" sceneid="s03" formation="101" name="南皮守军3" Des="南皮守军3" Openlevel="L1602" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1604" sceneid="s03" formation="102" name="南皮守军4" Des="南皮守军4" Openlevel="L1603" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1605" sceneid="s03" formation="201" name="南皮守军5" Des="南皮守军5" Openlevel="L1604" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1606" sceneid="s03" formation="202" name="南皮守军6" Des="南皮守军6" Openlevel="L1605" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1607" sceneid="s03" formation="301" name="南皮守军7" Des="南皮守军7" Openlevel="L1606" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1608" sceneid="s03" formation="302" name="南皮守军8" Des="南皮守军8" Openlevel="L1607" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1609" sceneid="s03" formation="401" name="南皮守军9" Des="南皮守军9" Openlevel="L1608" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1610" sceneid="s03" formation="402" name="南皮守军10" Des="南皮守军10" Openlevel="L1609" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1611" sceneid="s03" formation="403" name="南皮守军11" Des="南皮守军11" Openlevel="L1610" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1612" sceneid="s03" formation="404" name="南皮守军12" Des="南皮守军12" Openlevel="L1611" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1613" sceneid="s03" formation="101" name="南皮守军13" Des="南皮守军13" Openlevel="L1612" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1614" sceneid="s03" formation="102" name="南皮守军14" Des="南皮守军14" Openlevel="L1613" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1615" sceneid="s03" formation="201" name="南皮守军15" Des="南皮守军15" Openlevel="L1614" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1616" sceneid="s03" formation="202" name="南皮守军16" Des="南皮守军16" Openlevel="L1615" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1617" sceneid="s03" formation="301" name="南皮守军17" Des="南皮守军17" Openlevel="L1616" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1618" sceneid="s03" formation="302" name="南皮守军18" Des="南皮守军18" Openlevel="L1617" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1619" sceneid="s03" formation="401" name="南皮守军19" Des="南皮守军19" Openlevel="L1618" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1620" sceneid="s03" formation="402" name="南皮守军20" Des="南皮守军20" Openlevel="L1619" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1701" sceneid="s03" formation="403" name="平原守军1" Des="平原守军1" Openlevel="L1620" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1702" sceneid="s03" formation="404" name="平原守军2" Des="平原守军2" Openlevel="L1701" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1703" sceneid="s03" formation="101" name="平原守军3" Des="平原守军3" Openlevel="L1702" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1704" sceneid="s03" formation="102" name="平原守军4" Des="平原守军4" Openlevel="L1703" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1705" sceneid="s03" formation="201" name="平原守军5" Des="平原守军5" Openlevel="L1704" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1706" sceneid="s03" formation="202" name="平原守军6" Des="平原守军6" Openlevel="L1705" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1707" sceneid="s03" formation="301" name="平原守军7" Des="平原守军7" Openlevel="L1706" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1708" sceneid="s03" formation="302" name="平原守军8" Des="平原守军8" Openlevel="L1707" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1709" sceneid="s03" formation="401" name="平原守军9" Des="平原守军9" Openlevel="L1708" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1710" sceneid="s03" formation="402" name="平原守军10" Des="平原守军10" Openlevel="L1709" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1711" sceneid="s03" formation="403" name="平原守军11" Des="平原守军11" Openlevel="L1710" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1712" sceneid="s03" formation="404" name="平原守军12" Des="平原守军12" Openlevel="L1711" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1713" sceneid="s03" formation="101" name="平原守军13" Des="平原守军13" Openlevel="L1712" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1714" sceneid="s03" formation="102" name="平原守军14" Des="平原守军14" Openlevel="L1713" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1715" sceneid="s03" formation="201" name="平原守军15" Des="平原守军15" Openlevel="L1714" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1716" sceneid="s03" formation="202" name="平原守军16" Des="平原守军16" Openlevel="L1715" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1717" sceneid="s03" formation="301" name="平原守军17" Des="平原守军17" Openlevel="L1716" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1718" sceneid="s03" formation="302" name="平原守军18" Des="平原守军18" Openlevel="L1717" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1719" sceneid="s03" formation="401" name="平原守军19" Des="平原守军19" Openlevel="L1718" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1720" sceneid="s03" formation="402" name="平原守军20" Des="平原守军20" Openlevel="L1719" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1801" sceneid="s03" formation="403" name="小沛守军1" Des="小沛守军1" Openlevel="L1720" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1802" sceneid="s03" formation="404" name="小沛守军2" Des="小沛守军2" Openlevel="L1801" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1803" sceneid="s03" formation="101" name="小沛守军3" Des="小沛守军3" Openlevel="L1802" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1804" sceneid="s03" formation="102" name="小沛守军4" Des="小沛守军4" Openlevel="L1803" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1805" sceneid="s03" formation="201" name="小沛守军5" Des="小沛守军5" Openlevel="L1804" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1806" sceneid="s03" formation="202" name="小沛守军6" Des="小沛守军6" Openlevel="L1805" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1807" sceneid="s03" formation="301" name="小沛守军7" Des="小沛守军7" Openlevel="L1806" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1808" sceneid="s03" formation="302" name="小沛守军8" Des="小沛守军8" Openlevel="L1807" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1809" sceneid="s03" formation="401" name="小沛守军9" Des="小沛守军9" Openlevel="L1808" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1810" sceneid="s03" formation="402" name="小沛守军10" Des="小沛守军10" Openlevel="L1809" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1811" sceneid="s03" formation="403" name="小沛守军11" Des="小沛守军11" Openlevel="L1810" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1812" sceneid="s03" formation="404" name="小沛守军12" Des="小沛守军12" Openlevel="L1811" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1813" sceneid="s03" formation="101" name="小沛守军13" Des="小沛守军13" Openlevel="L1812" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1814" sceneid="s03" formation="102" name="小沛守军14" Des="小沛守军14" Openlevel="L1813" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1815" sceneid="s03" formation="201" name="小沛守军15" Des="小沛守军15" Openlevel="L1814" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1816" sceneid="s03" formation="202" name="小沛守军16" Des="小沛守军16" Openlevel="L1815" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1817" sceneid="s03" formation="301" name="小沛守军17" Des="小沛守军17" Openlevel="L1816" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1818" sceneid="s03" formation="302" name="小沛守军18" Des="小沛守军18" Openlevel="L1817" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1819" sceneid="s03" formation="401" name="小沛守军19" Des="小沛守军19" Openlevel="L1818" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1820" sceneid="s03" formation="402" name="小沛守军20" Des="小沛守军20" Openlevel="L1819" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1901" sceneid="s03" formation="403" name="北海守军1" Des="北海守军1" Openlevel="L1820" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1902" sceneid="s03" formation="404" name="北海守军2" Des="北海守军2" Openlevel="L1901" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1903" sceneid="s03" formation="101" name="北海守军3" Des="北海守军3" Openlevel="L1902" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1904" sceneid="s03" formation="102" name="北海守军4" Des="北海守军4" Openlevel="L1903" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1905" sceneid="s03" formation="201" name="北海守军5" Des="北海守军5" Openlevel="L1904" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1906" sceneid="s03" formation="202" name="北海守军6" Des="北海守军6" Openlevel="L1905" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1907" sceneid="s03" formation="301" name="北海守军7" Des="北海守军7" Openlevel="L1906" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1908" sceneid="s03" formation="302" name="北海守军8" Des="北海守军8" Openlevel="L1907" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1909" sceneid="s03" formation="401" name="北海守军9" Des="北海守军9" Openlevel="L1908" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1910" sceneid="s03" formation="402" name="北海守军10" Des="北海守军10" Openlevel="L1909" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1911" sceneid="s03" formation="403" name="北海守军11" Des="北海守军11" Openlevel="L1910" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1912" sceneid="s03" formation="404" name="北海守军12" Des="北海守军12" Openlevel="L1911" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1913" sceneid="s03" formation="101" name="北海守军13" Des="北海守军13" Openlevel="L1912" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1914" sceneid="s03" formation="102" name="北海守军14" Des="北海守军14" Openlevel="L1913" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1915" sceneid="s03" formation="201" name="北海守军15" Des="北海守军15" Openlevel="L1914" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1916" sceneid="s03" formation="202" name="北海守军16" Des="北海守军16" Openlevel="L1915" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1917" sceneid="s03" formation="301" name="北海守军17" Des="北海守军17" Openlevel="L1916" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1918" sceneid="s03" formation="302" name="北海守军18" Des="北海守军18" Openlevel="L1917" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1919" sceneid="s03" formation="401" name="北海守军19" Des="北海守军19" Openlevel="L1918" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L1920" sceneid="s03" formation="402" name="北海守军20" Des="北海守军20" Openlevel="L1919" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2001" sceneid="s03" formation="403" name="青州守军1" Des="青州守军1" Openlevel="L1920" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2002" sceneid="s03" formation="404" name="青州守军2" Des="青州守军2" Openlevel="L2001" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2003" sceneid="s03" formation="101" name="青州守军3" Des="青州守军3" Openlevel="L2002" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2004" sceneid="s03" formation="102" name="青州守军4" Des="青州守军4" Openlevel="L2003" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2005" sceneid="s03" formation="201" name="青州守军5" Des="青州守军5" Openlevel="L2004" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2006" sceneid="s03" formation="202" name="青州守军6" Des="青州守军6" Openlevel="L2005" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2007" sceneid="s03" formation="301" name="青州守军7" Des="青州守军7" Openlevel="L2006" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2008" sceneid="s03" formation="302" name="青州守军8" Des="青州守军8" Openlevel="L2007" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2009" sceneid="s03" formation="401" name="青州守军9" Des="青州守军9" Openlevel="L2008" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2010" sceneid="s03" formation="402" name="青州守军10" Des="青州守军10" Openlevel="L2009" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2011" sceneid="s03" formation="403" name="青州守军11" Des="青州守军11" Openlevel="L2010" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2012" sceneid="s03" formation="404" name="青州守军12" Des="青州守军12" Openlevel="L2011" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2013" sceneid="s03" formation="101" name="青州守军13" Des="青州守军13" Openlevel="L2012" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2014" sceneid="s03" formation="102" name="青州守军14" Des="青州守军14" Openlevel="L2013" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2015" sceneid="s03" formation="201" name="青州守军15" Des="青州守军15" Openlevel="L2014" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2016" sceneid="s03" formation="202" name="青州守军16" Des="青州守军16" Openlevel="L2015" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2017" sceneid="s03" formation="301" name="青州守军17" Des="青州守军17" Openlevel="L2016" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2018" sceneid="s03" formation="302" name="青州守军18" Des="青州守军18" Openlevel="L2017" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2019" sceneid="s03" formation="401" name="青州守军19" Des="青州守军19" Openlevel="L2018" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2020" sceneid="s03" formation="402" name="青州守军20" Des="青州守军20" Openlevel="L2019" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2101" sceneid="s03" formation="403" name="下邳守军1" Des="下邳守军1" Openlevel="L2020" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2102" sceneid="s03" formation="404" name="下邳守军2" Des="下邳守军2" Openlevel="L2101" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2103" sceneid="s03" formation="101" name="下邳守军3" Des="下邳守军3" Openlevel="L2102" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2104" sceneid="s03" formation="102" name="下邳守军4" Des="下邳守军4" Openlevel="L2103" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2105" sceneid="s03" formation="201" name="下邳守军5" Des="下邳守军5" Openlevel="L2104" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2106" sceneid="s03" formation="202" name="下邳守军6" Des="下邳守军6" Openlevel="L2105" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2107" sceneid="s03" formation="301" name="下邳守军7" Des="下邳守军7" Openlevel="L2106" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2108" sceneid="s03" formation="302" name="下邳守军8" Des="下邳守军8" Openlevel="L2107" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2109" sceneid="s03" formation="401" name="下邳守军9" Des="下邳守军9" Openlevel="L2108" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2110" sceneid="s03" formation="402" name="下邳守军10" Des="下邳守军10" Openlevel="L2109" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2111" sceneid="s03" formation="403" name="下邳守军11" Des="下邳守军11" Openlevel="L2110" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2112" sceneid="s03" formation="404" name="下邳守军12" Des="下邳守军12" Openlevel="L2111" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2113" sceneid="s03" formation="101" name="下邳守军13" Des="下邳守军13" Openlevel="L2112" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2114" sceneid="s03" formation="102" name="下邳守军14" Des="下邳守军14" Openlevel="L2113" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2115" sceneid="s03" formation="201" name="下邳守军15" Des="下邳守军15" Openlevel="L2114" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2116" sceneid="s03" formation="202" name="下邳守军16" Des="下邳守军16" Openlevel="L2115" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2117" sceneid="s03" formation="301" name="下邳守军17" Des="下邳守军17" Openlevel="L2116" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2118" sceneid="s03" formation="302" name="下邳守军18" Des="下邳守军18" Openlevel="L2117" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2119" sceneid="s03" formation="401" name="下邳守军19" Des="下邳守军19" Openlevel="L2118" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2120" sceneid="s03" formation="402" name="下邳守军20" Des="下邳守军20" Openlevel="L2119" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2201" sceneid="s03" formation="403" name="合肥守军1" Des="合肥守军1" Openlevel="L2120" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2202" sceneid="s03" formation="404" name="合肥守军2" Des="合肥守军2" Openlevel="L2201" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2203" sceneid="s03" formation="101" name="合肥守军3" Des="合肥守军3" Openlevel="L2202" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2204" sceneid="s03" formation="102" name="合肥守军4" Des="合肥守军4" Openlevel="L2203" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2205" sceneid="s03" formation="201" name="合肥守军5" Des="合肥守军5" Openlevel="L2204" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2206" sceneid="s03" formation="202" name="合肥守军6" Des="合肥守军6" Openlevel="L2205" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2207" sceneid="s03" formation="301" name="合肥守军7" Des="合肥守军7" Openlevel="L2206" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2208" sceneid="s03" formation="302" name="合肥守军8" Des="合肥守军8" Openlevel="L2207" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2209" sceneid="s03" formation="401" name="合肥守军9" Des="合肥守军9" Openlevel="L2208" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2210" sceneid="s03" formation="402" name="合肥守军10" Des="合肥守军10" Openlevel="L2209" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2211" sceneid="s03" formation="403" name="合肥守军11" Des="合肥守军11" Openlevel="L2210" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2212" sceneid="s03" formation="404" name="合肥守军12" Des="合肥守军12" Openlevel="L2211" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2213" sceneid="s03" formation="101" name="合肥守军13" Des="合肥守军13" Openlevel="L2212" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2214" sceneid="s03" formation="102" name="合肥守军14" Des="合肥守军14" Openlevel="L2213" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2215" sceneid="s03" formation="201" name="合肥守军15" Des="合肥守军15" Openlevel="L2214" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2216" sceneid="s03" formation="202" name="合肥守军16" Des="合肥守军16" Openlevel="L2215" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2217" sceneid="s03" formation="301" name="合肥守军17" Des="合肥守军17" Openlevel="L2216" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2218" sceneid="s03" formation="302" name="合肥守军18" Des="合肥守军18" Openlevel="L2217" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2219" sceneid="s03" formation="401" name="合肥守军19" Des="合肥守军19" Openlevel="L2218" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2220" sceneid="s03" formation="402" name="合肥守军20" Des="合肥守军20" Openlevel="L2219" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2301" sceneid="s03" formation="403" name="京口守军1" Des="京口守军1" Openlevel="L2220" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2302" sceneid="s03" formation="404" name="京口守军2" Des="京口守军2" Openlevel="L2301" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2303" sceneid="s03" formation="101" name="京口守军3" Des="京口守军3" Openlevel="L2302" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2304" sceneid="s03" formation="102" name="京口守军4" Des="京口守军4" Openlevel="L2303" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2305" sceneid="s03" formation="201" name="京口守军5" Des="京口守军5" Openlevel="L2304" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2306" sceneid="s03" formation="202" name="京口守军6" Des="京口守军6" Openlevel="L2305" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2307" sceneid="s03" formation="301" name="京口守军7" Des="京口守军7" Openlevel="L2306" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2308" sceneid="s03" formation="302" name="京口守军8" Des="京口守军8" Openlevel="L2307" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2309" sceneid="s03" formation="401" name="京口守军9" Des="京口守军9" Openlevel="L2308" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2310" sceneid="s03" formation="402" name="京口守军10" Des="京口守军10" Openlevel="L2309" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2311" sceneid="s03" formation="403" name="京口守军11" Des="京口守军11" Openlevel="L2310" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2312" sceneid="s03" formation="404" name="京口守军12" Des="京口守军12" Openlevel="L2311" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2313" sceneid="s03" formation="101" name="京口守军13" Des="京口守军13" Openlevel="L2312" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2314" sceneid="s03" formation="102" name="京口守军14" Des="京口守军14" Openlevel="L2313" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2315" sceneid="s03" formation="201" name="京口守军15" Des="京口守军15" Openlevel="L2314" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2316" sceneid="s03" formation="202" name="京口守军16" Des="京口守军16" Openlevel="L2315" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2317" sceneid="s03" formation="301" name="京口守军17" Des="京口守军17" Openlevel="L2316" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2318" sceneid="s03" formation="302" name="京口守军18" Des="京口守军18" Openlevel="L2317" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2319" sceneid="s03" formation="401" name="京口守军19" Des="京口守军19" Openlevel="L2318" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2320" sceneid="s03" formation="402" name="京口守军20" Des="京口守军20" Openlevel="L2319" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2401" sceneid="s03" formation="403" name="彭城守军1" Des="彭城守军1" Openlevel="L2320" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2402" sceneid="s03" formation="404" name="彭城守军2" Des="彭城守军2" Openlevel="L2401" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2403" sceneid="s03" formation="101" name="彭城守军3" Des="彭城守军3" Openlevel="L2402" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2404" sceneid="s03" formation="102" name="彭城守军4" Des="彭城守军4" Openlevel="L2403" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2405" sceneid="s03" formation="201" name="彭城守军5" Des="彭城守军5" Openlevel="L2404" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2406" sceneid="s03" formation="202" name="彭城守军6" Des="彭城守军6" Openlevel="L2405" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2407" sceneid="s03" formation="301" name="彭城守军7" Des="彭城守军7" Openlevel="L2406" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2408" sceneid="s03" formation="302" name="彭城守军8" Des="彭城守军8" Openlevel="L2407" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2409" sceneid="s03" formation="401" name="彭城守军9" Des="彭城守军9" Openlevel="L2408" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2410" sceneid="s03" formation="402" name="彭城守军10" Des="彭城守军10" Openlevel="L2409" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2411" sceneid="s03" formation="403" name="彭城守军11" Des="彭城守军11" Openlevel="L2410" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2412" sceneid="s03" formation="404" name="彭城守军12" Des="彭城守军12" Openlevel="L2411" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2413" sceneid="s03" formation="101" name="彭城守军13" Des="彭城守军13" Openlevel="L2412" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2414" sceneid="s03" formation="102" name="彭城守军14" Des="彭城守军14" Openlevel="L2413" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2415" sceneid="s03" formation="201" name="彭城守军15" Des="彭城守军15" Openlevel="L2414" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2416" sceneid="s03" formation="202" name="彭城守军16" Des="彭城守军16" Openlevel="L2415" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2417" sceneid="s03" formation="301" name="彭城守军17" Des="彭城守军17" Openlevel="L2416" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2418" sceneid="s03" formation="302" name="彭城守军18" Des="彭城守军18" Openlevel="L2417" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2419" sceneid="s03" formation="401" name="彭城守军19" Des="彭城守军19" Openlevel="L2418" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2420" sceneid="s03" formation="402" name="彭城守军20" Des="彭城守军20" Openlevel="L2419" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2501" sceneid="s03" formation="403" name="樊城守军1" Des="樊城守军1" Openlevel="L2420" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2502" sceneid="s03" formation="404" name="樊城守军2" Des="樊城守军2" Openlevel="L2501" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2503" sceneid="s03" formation="101" name="樊城守军3" Des="樊城守军3" Openlevel="L2502" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2504" sceneid="s03" formation="102" name="樊城守军4" Des="樊城守军4" Openlevel="L2503" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2505" sceneid="s03" formation="201" name="樊城守军5" Des="樊城守军5" Openlevel="L2504" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2506" sceneid="s03" formation="202" name="樊城守军6" Des="樊城守军6" Openlevel="L2505" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2507" sceneid="s03" formation="301" name="樊城守军7" Des="樊城守军7" Openlevel="L2506" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2508" sceneid="s03" formation="302" name="樊城守军8" Des="樊城守军8" Openlevel="L2507" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2509" sceneid="s03" formation="401" name="樊城守军9" Des="樊城守军9" Openlevel="L2508" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2510" sceneid="s03" formation="402" name="樊城守军10" Des="樊城守军10" Openlevel="L2509" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2511" sceneid="s03" formation="403" name="樊城守军11" Des="樊城守军11" Openlevel="L2510" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2512" sceneid="s03" formation="404" name="樊城守军12" Des="樊城守军12" Openlevel="L2511" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2513" sceneid="s03" formation="101" name="樊城守军13" Des="樊城守军13" Openlevel="L2512" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2514" sceneid="s03" formation="102" name="樊城守军14" Des="樊城守军14" Openlevel="L2513" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2515" sceneid="s03" formation="201" name="樊城守军15" Des="樊城守军15" Openlevel="L2514" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2516" sceneid="s03" formation="202" name="樊城守军16" Des="樊城守军16" Openlevel="L2515" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2517" sceneid="s03" formation="301" name="樊城守军17" Des="樊城守军17" Openlevel="L2516" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2518" sceneid="s03" formation="302" name="樊城守军18" Des="樊城守军18" Openlevel="L2517" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2519" sceneid="s03" formation="401" name="樊城守军19" Des="樊城守军19" Openlevel="L2518" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2520" sceneid="s03" formation="402" name="樊城守军20" Des="樊城守军20" Openlevel="L2519" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2601" sceneid="s03" formation="403" name="夷陵守军1" Des="夷陵守军1" Openlevel="L2520" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2602" sceneid="s03" formation="404" name="夷陵守军2" Des="夷陵守军2" Openlevel="L2601" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2603" sceneid="s03" formation="101" name="夷陵守军3" Des="夷陵守军3" Openlevel="L2602" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2604" sceneid="s03" formation="102" name="夷陵守军4" Des="夷陵守军4" Openlevel="L2603" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2605" sceneid="s03" formation="201" name="夷陵守军5" Des="夷陵守军5" Openlevel="L2604" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2606" sceneid="s03" formation="202" name="夷陵守军6" Des="夷陵守军6" Openlevel="L2605" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2607" sceneid="s03" formation="301" name="夷陵守军7" Des="夷陵守军7" Openlevel="L2606" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2608" sceneid="s03" formation="302" name="夷陵守军8" Des="夷陵守军8" Openlevel="L2607" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2609" sceneid="s03" formation="401" name="夷陵守军9" Des="夷陵守军9" Openlevel="L2608" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2610" sceneid="s03" formation="402" name="夷陵守军10" Des="夷陵守军10" Openlevel="L2609" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2611" sceneid="s03" formation="403" name="夷陵守军11" Des="夷陵守军11" Openlevel="L2610" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2612" sceneid="s03" formation="404" name="夷陵守军12" Des="夷陵守军12" Openlevel="L2611" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2613" sceneid="s03" formation="101" name="夷陵守军13" Des="夷陵守军13" Openlevel="L2612" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2614" sceneid="s03" formation="102" name="夷陵守军14" Des="夷陵守军14" Openlevel="L2613" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2615" sceneid="s03" formation="201" name="夷陵守军15" Des="夷陵守军15" Openlevel="L2614" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2616" sceneid="s03" formation="202" name="夷陵守军16" Des="夷陵守军16" Openlevel="L2615" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2617" sceneid="s03" formation="301" name="夷陵守军17" Des="夷陵守军17" Openlevel="L2616" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2618" sceneid="s03" formation="302" name="夷陵守军18" Des="夷陵守军18" Openlevel="L2617" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2619" sceneid="s03" formation="401" name="夷陵守军19" Des="夷陵守军19" Openlevel="L2618" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2620" sceneid="s03" formation="402" name="夷陵守军20" Des="夷陵守军20" Openlevel="L2619" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2701" sceneid="s03" formation="403" name="长坂守军1" Des="长坂守军1" Openlevel="L2620" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2702" sceneid="s03" formation="404" name="长坂守军2" Des="长坂守军2" Openlevel="L2701" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2703" sceneid="s03" formation="101" name="长坂守军3" Des="长坂守军3" Openlevel="L2702" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2704" sceneid="s03" formation="102" name="长坂守军4" Des="长坂守军4" Openlevel="L2703" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2705" sceneid="s03" formation="201" name="长坂守军5" Des="长坂守军5" Openlevel="L2704" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2706" sceneid="s03" formation="202" name="长坂守军6" Des="长坂守军6" Openlevel="L2705" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2707" sceneid="s03" formation="301" name="长坂守军7" Des="长坂守军7" Openlevel="L2706" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2708" sceneid="s03" formation="302" name="长坂守军8" Des="长坂守军8" Openlevel="L2707" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2709" sceneid="s03" formation="401" name="长坂守军9" Des="长坂守军9" Openlevel="L2708" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2710" sceneid="s03" formation="402" name="长坂守军10" Des="长坂守军10" Openlevel="L2709" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2711" sceneid="s03" formation="403" name="长坂守军11" Des="长坂守军11" Openlevel="L2710" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2712" sceneid="s03" formation="404" name="长坂守军12" Des="长坂守军12" Openlevel="L2711" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2713" sceneid="s03" formation="101" name="长坂守军13" Des="长坂守军13" Openlevel="L2712" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2714" sceneid="s03" formation="102" name="长坂守军14" Des="长坂守军14" Openlevel="L2713" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2715" sceneid="s03" formation="201" name="长坂守军15" Des="长坂守军15" Openlevel="L2714" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2716" sceneid="s03" formation="202" name="长坂守军16" Des="长坂守军16" Openlevel="L2715" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2717" sceneid="s03" formation="301" name="长坂守军17" Des="长坂守军17" Openlevel="L2716" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2718" sceneid="s03" formation="302" name="长坂守军18" Des="长坂守军18" Openlevel="L2717" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2719" sceneid="s03" formation="401" name="长坂守军19" Des="长坂守军19" Openlevel="L2718" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2720" sceneid="s03" formation="402" name="长坂守军20" Des="长坂守军20" Openlevel="L2719" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2801" sceneid="s03" formation="403" name="江陵守军1" Des="江陵守军1" Openlevel="L2720" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2802" sceneid="s03" formation="404" name="江陵守军2" Des="江陵守军2" Openlevel="L2801" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2803" sceneid="s03" formation="101" name="江陵守军3" Des="江陵守军3" Openlevel="L2802" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2804" sceneid="s03" formation="102" name="江陵守军4" Des="江陵守军4" Openlevel="L2803" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2805" sceneid="s03" formation="201" name="江陵守军5" Des="江陵守军5" Openlevel="L2804" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2806" sceneid="s03" formation="202" name="江陵守军6" Des="江陵守军6" Openlevel="L2805" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2807" sceneid="s03" formation="301" name="江陵守军7" Des="江陵守军7" Openlevel="L2806" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2808" sceneid="s03" formation="302" name="江陵守军8" Des="江陵守军8" Openlevel="L2807" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2809" sceneid="s03" formation="401" name="江陵守军9" Des="江陵守军9" Openlevel="L2808" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2810" sceneid="s03" formation="402" name="江陵守军10" Des="江陵守军10" Openlevel="L2809" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2811" sceneid="s03" formation="403" name="江陵守军11" Des="江陵守军11" Openlevel="L2810" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2812" sceneid="s03" formation="404" name="江陵守军12" Des="江陵守军12" Openlevel="L2811" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2813" sceneid="s03" formation="101" name="江陵守军13" Des="江陵守军13" Openlevel="L2812" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2814" sceneid="s03" formation="102" name="江陵守军14" Des="江陵守军14" Openlevel="L2813" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2815" sceneid="s03" formation="201" name="江陵守军15" Des="江陵守军15" Openlevel="L2814" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2816" sceneid="s03" formation="202" name="江陵守军16" Des="江陵守军16" Openlevel="L2815" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2817" sceneid="s03" formation="301" name="江陵守军17" Des="江陵守军17" Openlevel="L2816" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2818" sceneid="s03" formation="302" name="江陵守军18" Des="江陵守军18" Openlevel="L2817" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2819" sceneid="s03" formation="401" name="江陵守军19" Des="江陵守军19" Openlevel="L2818" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2820" sceneid="s03" formation="402" name="江陵守军20" Des="江陵守军20" Openlevel="L2819" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2901" sceneid="s03" formation="403" name="姑苏守军1" Des="姑苏守军1" Openlevel="L2820" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2902" sceneid="s03" formation="404" name="姑苏守军2" Des="姑苏守军2" Openlevel="L2901" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2903" sceneid="s03" formation="101" name="姑苏守军3" Des="姑苏守军3" Openlevel="L2902" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2904" sceneid="s03" formation="102" name="姑苏守军4" Des="姑苏守军4" Openlevel="L2903" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2905" sceneid="s03" formation="201" name="姑苏守军5" Des="姑苏守军5" Openlevel="L2904" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2906" sceneid="s03" formation="202" name="姑苏守军6" Des="姑苏守军6" Openlevel="L2905" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2907" sceneid="s03" formation="301" name="姑苏守军7" Des="姑苏守军7" Openlevel="L2906" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2908" sceneid="s03" formation="302" name="姑苏守军8" Des="姑苏守军8" Openlevel="L2907" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2909" sceneid="s03" formation="401" name="姑苏守军9" Des="姑苏守军9" Openlevel="L2908" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2910" sceneid="s03" formation="402" name="姑苏守军10" Des="姑苏守军10" Openlevel="L2909" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2911" sceneid="s03" formation="403" name="姑苏守军11" Des="姑苏守军11" Openlevel="L2910" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2912" sceneid="s03" formation="404" name="姑苏守军12" Des="姑苏守军12" Openlevel="L2911" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2913" sceneid="s03" formation="101" name="姑苏守军13" Des="姑苏守军13" Openlevel="L2912" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2914" sceneid="s03" formation="102" name="姑苏守军14" Des="姑苏守军14" Openlevel="L2913" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2915" sceneid="s03" formation="201" name="姑苏守军15" Des="姑苏守军15" Openlevel="L2914" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2916" sceneid="s03" formation="202" name="姑苏守军16" Des="姑苏守军16" Openlevel="L2915" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2917" sceneid="s03" formation="301" name="姑苏守军17" Des="姑苏守军17" Openlevel="L2916" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2918" sceneid="s03" formation="302" name="姑苏守军18" Des="姑苏守军18" Openlevel="L2917" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2919" sceneid="s03" formation="401" name="姑苏守军19" Des="姑苏守军19" Openlevel="L2918" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L2920" sceneid="s03" formation="402" name="姑苏守军20" Des="姑苏守军20" Openlevel="L2919" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3001" sceneid="s03" formation="403" name="江夏守军1" Des="江夏守军1" Openlevel="L2920" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3002" sceneid="s03" formation="404" name="江夏守军2" Des="江夏守军2" Openlevel="L3001" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3003" sceneid="s03" formation="101" name="江夏守军3" Des="江夏守军3" Openlevel="L3002" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3004" sceneid="s03" formation="102" name="江夏守军4" Des="江夏守军4" Openlevel="L3003" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3005" sceneid="s03" formation="201" name="江夏守军5" Des="江夏守军5" Openlevel="L3004" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3006" sceneid="s03" formation="202" name="江夏守军6" Des="江夏守军6" Openlevel="L3005" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3007" sceneid="s03" formation="301" name="江夏守军7" Des="江夏守军7" Openlevel="L3006" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3008" sceneid="s03" formation="302" name="江夏守军8" Des="江夏守军8" Openlevel="L3007" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3009" sceneid="s03" formation="401" name="江夏守军9" Des="江夏守军9" Openlevel="L3008" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3010" sceneid="s03" formation="402" name="江夏守军10" Des="江夏守军10" Openlevel="L3009" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3011" sceneid="s03" formation="403" name="江夏守军11" Des="江夏守军11" Openlevel="L3010" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3012" sceneid="s03" formation="404" name="江夏守军12" Des="江夏守军12" Openlevel="L3011" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3013" sceneid="s03" formation="101" name="江夏守军13" Des="江夏守军13" Openlevel="L3012" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3014" sceneid="s03" formation="102" name="江夏守军14" Des="江夏守军14" Openlevel="L3013" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3015" sceneid="s03" formation="201" name="江夏守军15" Des="江夏守军15" Openlevel="L3014" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3016" sceneid="s03" formation="202" name="江夏守军16" Des="江夏守军16" Openlevel="L3015" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3017" sceneid="s03" formation="301" name="江夏守军17" Des="江夏守军17" Openlevel="L3016" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3018" sceneid="s03" formation="302" name="江夏守军18" Des="江夏守军18" Openlevel="L3017" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3019" sceneid="s03" formation="401" name="江夏守军19" Des="江夏守军19" Openlevel="L3018" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3020" sceneid="s03" formation="402" name="江夏守军20" Des="江夏守军20" Openlevel="L3019" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3101" sceneid="s03" formation="403" name="赤壁守军1" Des="赤壁守军1" Openlevel="L3020" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3102" sceneid="s03" formation="404" name="赤壁守军2" Des="赤壁守军2" Openlevel="L3101" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3103" sceneid="s03" formation="101" name="赤壁守军3" Des="赤壁守军3" Openlevel="L3102" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3104" sceneid="s03" formation="102" name="赤壁守军4" Des="赤壁守军4" Openlevel="L3103" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3105" sceneid="s03" formation="201" name="赤壁守军5" Des="赤壁守军5" Openlevel="L3104" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3106" sceneid="s03" formation="202" name="赤壁守军6" Des="赤壁守军6" Openlevel="L3105" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3107" sceneid="s03" formation="301" name="赤壁守军7" Des="赤壁守军7" Openlevel="L3106" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3108" sceneid="s03" formation="302" name="赤壁守军8" Des="赤壁守军8" Openlevel="L3107" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3109" sceneid="s03" formation="401" name="赤壁守军9" Des="赤壁守军9" Openlevel="L3108" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3110" sceneid="s03" formation="402" name="赤壁守军10" Des="赤壁守军10" Openlevel="L3109" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3111" sceneid="s03" formation="403" name="赤壁守军11" Des="赤壁守军11" Openlevel="L3110" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3112" sceneid="s03" formation="404" name="赤壁守军12" Des="赤壁守军12" Openlevel="L3111" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3113" sceneid="s03" formation="101" name="赤壁守军13" Des="赤壁守军13" Openlevel="L3112" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3114" sceneid="s03" formation="102" name="赤壁守军14" Des="赤壁守军14" Openlevel="L3113" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3115" sceneid="s03" formation="201" name="赤壁守军15" Des="赤壁守军15" Openlevel="L3114" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3116" sceneid="s03" formation="202" name="赤壁守军16" Des="赤壁守军16" Openlevel="L3115" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3117" sceneid="s03" formation="301" name="赤壁守军17" Des="赤壁守军17" Openlevel="L3116" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3118" sceneid="s03" formation="302" name="赤壁守军18" Des="赤壁守军18" Openlevel="L3117" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3119" sceneid="s03" formation="401" name="赤壁守军19" Des="赤壁守军19" Openlevel="L3118" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3120" sceneid="s03" formation="402" name="赤壁守军20" Des="赤壁守军20" Openlevel="L3119" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3201" sceneid="s03" formation="403" name="建业守军1" Des="建业守军1" Openlevel="L3120" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3202" sceneid="s03" formation="404" name="建业守军2" Des="建业守军2" Openlevel="L3201" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3203" sceneid="s03" formation="101" name="建业守军3" Des="建业守军3" Openlevel="L3202" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3204" sceneid="s03" formation="102" name="建业守军4" Des="建业守军4" Openlevel="L3203" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3205" sceneid="s03" formation="201" name="建业守军5" Des="建业守军5" Openlevel="L3204" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3206" sceneid="s03" formation="202" name="建业守军6" Des="建业守军6" Openlevel="L3205" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3207" sceneid="s03" formation="301" name="建业守军7" Des="建业守军7" Openlevel="L3206" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3208" sceneid="s03" formation="302" name="建业守军8" Des="建业守军8" Openlevel="L3207" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3209" sceneid="s03" formation="401" name="建业守军9" Des="建业守军9" Openlevel="L3208" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3210" sceneid="s03" formation="402" name="建业守军10" Des="建业守军10" Openlevel="L3209" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3211" sceneid="s03" formation="403" name="建业守军11" Des="建业守军11" Openlevel="L3210" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3212" sceneid="s03" formation="404" name="建业守军12" Des="建业守军12" Openlevel="L3211" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3213" sceneid="s03" formation="101" name="建业守军13" Des="建业守军13" Openlevel="L3212" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3214" sceneid="s03" formation="102" name="建业守军14" Des="建业守军14" Openlevel="L3213" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3215" sceneid="s03" formation="201" name="建业守军15" Des="建业守军15" Openlevel="L3214" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3216" sceneid="s03" formation="202" name="建业守军16" Des="建业守军16" Openlevel="L3215" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3217" sceneid="s03" formation="301" name="建业守军17" Des="建业守军17" Openlevel="L3216" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3218" sceneid="s03" formation="302" name="建业守军18" Des="建业守军18" Openlevel="L3217" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3219" sceneid="s03" formation="401" name="建业守军19" Des="建业守军19" Openlevel="L3218" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3220" sceneid="s03" formation="402" name="建业守军20" Des="建业守军20" Openlevel="L3219" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3301" sceneid="s03" formation="403" name="洛阳守军1" Des="洛阳守军1" Openlevel="L3220" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3302" sceneid="s03" formation="404" name="洛阳守军2" Des="洛阳守军2" Openlevel="L3301" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3303" sceneid="s03" formation="101" name="洛阳守军3" Des="洛阳守军3" Openlevel="L3302" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3304" sceneid="s03" formation="102" name="洛阳守军4" Des="洛阳守军4" Openlevel="L3303" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3305" sceneid="s03" formation="201" name="洛阳守军5" Des="洛阳守军5" Openlevel="L3304" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3306" sceneid="s03" formation="202" name="洛阳守军6" Des="洛阳守军6" Openlevel="L3305" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3307" sceneid="s03" formation="301" name="洛阳守军7" Des="洛阳守军7" Openlevel="L3306" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3308" sceneid="s03" formation="302" name="洛阳守军8" Des="洛阳守军8" Openlevel="L3307" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3309" sceneid="s03" formation="401" name="洛阳守军9" Des="洛阳守军9" Openlevel="L3308" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3310" sceneid="s03" formation="402" name="洛阳守军10" Des="洛阳守军10" Openlevel="L3309" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3311" sceneid="s03" formation="403" name="洛阳守军11" Des="洛阳守军11" Openlevel="L3310" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3312" sceneid="s03" formation="404" name="洛阳守军12" Des="洛阳守军12" Openlevel="L3311" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3313" sceneid="s03" formation="101" name="洛阳守军13" Des="洛阳守军13" Openlevel="L3312" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3314" sceneid="s03" formation="102" name="洛阳守军14" Des="洛阳守军14" Openlevel="L3313" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3315" sceneid="s03" formation="201" name="洛阳守军15" Des="洛阳守军15" Openlevel="L3314" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3316" sceneid="s03" formation="202" name="洛阳守军16" Des="洛阳守军16" Openlevel="L3315" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3317" sceneid="s03" formation="301" name="洛阳守军17" Des="洛阳守军17" Openlevel="L3316" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3318" sceneid="s03" formation="302" name="洛阳守军18" Des="洛阳守军18" Openlevel="L3317" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3319" sceneid="s03" formation="401" name="洛阳守军19" Des="洛阳守军19" Openlevel="L3318" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3320" sceneid="s03" formation="402" name="洛阳守军20" Des="洛阳守军20" Openlevel="L3319" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3401" sceneid="s03" formation="403" name="颍川守军1" Des="颍川守军1" Openlevel="L3320" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3402" sceneid="s03" formation="404" name="颍川守军2" Des="颍川守军2" Openlevel="L3401" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3403" sceneid="s03" formation="101" name="颍川守军3" Des="颍川守军3" Openlevel="L3402" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3404" sceneid="s03" formation="102" name="颍川守军4" Des="颍川守军4" Openlevel="L3403" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3405" sceneid="s03" formation="201" name="颍川守军5" Des="颍川守军5" Openlevel="L3404" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3406" sceneid="s03" formation="202" name="颍川守军6" Des="颍川守军6" Openlevel="L3405" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3407" sceneid="s03" formation="301" name="颍川守军7" Des="颍川守军7" Openlevel="L3406" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3408" sceneid="s03" formation="302" name="颍川守军8" Des="颍川守军8" Openlevel="L3407" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3409" sceneid="s03" formation="401" name="颍川守军9" Des="颍川守军9" Openlevel="L3408" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3410" sceneid="s03" formation="402" name="颍川守军10" Des="颍川守军10" Openlevel="L3409" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3411" sceneid="s03" formation="403" name="颍川守军11" Des="颍川守军11" Openlevel="L3410" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3412" sceneid="s03" formation="404" name="颍川守军12" Des="颍川守军12" Openlevel="L3411" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3413" sceneid="s03" formation="101" name="颍川守军13" Des="颍川守军13" Openlevel="L3412" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3414" sceneid="s03" formation="102" name="颍川守军14" Des="颍川守军14" Openlevel="L3413" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3415" sceneid="s03" formation="201" name="颍川守军15" Des="颍川守军15" Openlevel="L3414" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3416" sceneid="s03" formation="202" name="颍川守军16" Des="颍川守军16" Openlevel="L3415" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3417" sceneid="s03" formation="301" name="颍川守军17" Des="颍川守军17" Openlevel="L3416" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3418" sceneid="s03" formation="302" name="颍川守军18" Des="颍川守军18" Openlevel="L3417" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3419" sceneid="s03" formation="401" name="颍川守军19" Des="颍川守军19" Openlevel="L3418" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3420" sceneid="s03" formation="402" name="颍川守军20" Des="颍川守军20" Openlevel="L3419" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3501" sceneid="s03" formation="403" name="新野守军1" Des="新野守军1" Openlevel="L3420" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3502" sceneid="s03" formation="404" name="新野守军2" Des="新野守军2" Openlevel="L3501" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3503" sceneid="s03" formation="101" name="新野守军3" Des="新野守军3" Openlevel="L3502" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3504" sceneid="s03" formation="102" name="新野守军4" Des="新野守军4" Openlevel="L3503" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3505" sceneid="s03" formation="201" name="新野守军5" Des="新野守军5" Openlevel="L3504" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3506" sceneid="s03" formation="202" name="新野守军6" Des="新野守军6" Openlevel="L3505" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3507" sceneid="s03" formation="301" name="新野守军7" Des="新野守军7" Openlevel="L3506" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3508" sceneid="s03" formation="302" name="新野守军8" Des="新野守军8" Openlevel="L3507" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3509" sceneid="s03" formation="401" name="新野守军9" Des="新野守军9" Openlevel="L3508" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3510" sceneid="s03" formation="402" name="新野守军10" Des="新野守军10" Openlevel="L3509" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3511" sceneid="s03" formation="403" name="新野守军11" Des="新野守军11" Openlevel="L3510" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3512" sceneid="s03" formation="404" name="新野守军12" Des="新野守军12" Openlevel="L3511" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3513" sceneid="s03" formation="101" name="新野守军13" Des="新野守军13" Openlevel="L3512" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3514" sceneid="s03" formation="102" name="新野守军14" Des="新野守军14" Openlevel="L3513" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3515" sceneid="s03" formation="201" name="新野守军15" Des="新野守军15" Openlevel="L3514" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3516" sceneid="s03" formation="202" name="新野守军16" Des="新野守军16" Openlevel="L3515" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3517" sceneid="s03" formation="301" name="新野守军17" Des="新野守军17" Openlevel="L3516" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3518" sceneid="s03" formation="302" name="新野守军18" Des="新野守军18" Openlevel="L3517" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3519" sceneid="s03" formation="401" name="新野守军19" Des="新野守军19" Openlevel="L3518" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3520" sceneid="s03" formation="402" name="新野守军20" Des="新野守军20" Openlevel="L3519" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3601" sceneid="s03" formation="403" name="许都守军1" Des="许都守军1" Openlevel="L3520" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3602" sceneid="s03" formation="404" name="许都守军2" Des="许都守军2" Openlevel="L3601" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3603" sceneid="s03" formation="101" name="许都守军3" Des="许都守军3" Openlevel="L3602" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3604" sceneid="s03" formation="102" name="许都守军4" Des="许都守军4" Openlevel="L3603" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3605" sceneid="s03" formation="201" name="许都守军5" Des="许都守军5" Openlevel="L3604" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3606" sceneid="s03" formation="202" name="许都守军6" Des="许都守军6" Openlevel="L3605" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3607" sceneid="s03" formation="301" name="许都守军7" Des="许都守军7" Openlevel="L3606" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3608" sceneid="s03" formation="302" name="许都守军8" Des="许都守军8" Openlevel="L3607" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3609" sceneid="s03" formation="401" name="许都守军9" Des="许都守军9" Openlevel="L3608" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3610" sceneid="s03" formation="402" name="许都守军10" Des="许都守军10" Openlevel="L3609" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3611" sceneid="s03" formation="403" name="许都守军11" Des="许都守军11" Openlevel="L3610" IsHide="false" drop="401" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3612" sceneid="s03" formation="404" name="许都守军12" Des="许都守军12" Openlevel="L3611" IsHide="false" drop="402" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3613" sceneid="s03" formation="404" name="许都守军13" Des="许都守军13" Openlevel="L3612" IsHide="false" drop="403" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3614" sceneid="s03" formation="404" name="许都守军14" Des="许都守军14" Openlevel="L3613" IsHide="false" drop="404" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3615" sceneid="s03" formation="404" name="许都守军15" Des="许都守军15" Openlevel="L3614" IsHide="false" drop="405" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3616" sceneid="s03" formation="404" name="许都守军16" Des="许都守军16" Openlevel="L3615" IsHide="false" drop="406" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3617" sceneid="s03" formation="404" name="许都守军17" Des="许都守军17" Openlevel="L3616" IsHide="false" drop="407" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3618" sceneid="s03" formation="404" name="许都守军18" Des="许都守军18" Openlevel="L3617" IsHide="false" drop="408" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3619" sceneid="s03" formation="404" name="许都守军19" Des="许都守军19" Openlevel="L3618" IsHide="false" drop="409" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="L3620" sceneid="s03" formation="gzc1" name="战斗测试" Des="战斗测试" Openlevel="L3619" IsHide="false" drop="410" dropcount="4">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="gzc1" sceneid="s01" formation="gzc1" name="古战场测试1" Des="古战场测试1" Openlevel="&quot;&quot;" IsHide="false" drop="3" dropcount="1">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="gzc2" sceneid="s01" formation="gzc2" name="古战场测试2" Des="古战场测试2" Openlevel="&quot;&quot;" IsHide="false" drop="3" dropcount="1">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="gzc3" sceneid="s01" formation="gzc3" name="古战场测试3" Des="古战场测试3" Openlevel="&quot;&quot;" IsHide="false" drop="3" dropcount="1">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="gzc4" sceneid="s01" formation="gzc4" name="古战场测试4" Des="古战场测试4" Openlevel="&quot;&quot;" IsHide="false" drop="3" dropcount="1">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="gzc5" sceneid="s01" formation="gzc5" name="古战场测试5" Des="古战场测试5" Openlevel="&quot;&quot;" IsHide="false" drop="3" dropcount="1">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="gzc6" sceneid="s01" formation="gzc6" name="古战场测试6" Des="古战场测试6" Openlevel="&quot;&quot;" IsHide="false" drop="3" dropcount="1">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="gzc7" sceneid="s01" formation="gzc7" name="古战场测试7" Des="古战场测试7" Openlevel="&quot;&quot;" IsHide="false" drop="3" dropcount="1">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+		<LevelInfo id="gzc8" sceneid="s01" formation="gzc8" name="古战场测试8" Des="古战场测试8" Openlevel="&quot;&quot;" IsHide="false" drop="3" dropcount="1">
+			<CustomCamera fov="40" pitch="59.38462" dist="82" zadd="-6.705128"/>
+		</LevelInfo>
+	</LevelInfolist>
+</LevelConfig>

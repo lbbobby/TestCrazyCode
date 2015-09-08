@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LevelConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LevelInfolist>
+       <LevelInfo id="L1" levelid="s01" formation="f1" name="大战天灾军团1" Des="dota 穿越三国" Openlevel="" IsHide="false" drop="1" dropcount="1">
+	   <CustomCamera fov="30" pitch="60" dist="51.66" zadd="-6.4" />
+	  </LevelInfo>
+	  <LevelInfo id="L2" levelid="s01" formation="f2" name="大战天灾军团2" Des="dota 穿越三国" Openlevel="" IsHide="false" drop="1" dropcount="1">
+	   <CustomCamera fov="30" pitch="60" dist="51.66" zadd="-6.4" />
+	  </LevelInfo>
+	  <LevelInfo id="L3" levelid="s01" formation="f3" name="大战天灾军团3" Des="dota 穿越三国" Openlevel="" IsHide="false" drop="1" dropcount="1">
+	   <CustomCamera fov="30" pitch="60" dist="51.66" zadd="-6.4" />
+	  </LevelInfo>
+ </LevelInfolist>
+
+</LevelConfig>

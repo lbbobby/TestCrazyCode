@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NpcConfig>
+	<Npclist>
+		<PreHero npcid="10001" Armyid="20001" level="1"/>
+		<PreHero npcid="10002" Armyid="20002" level="1"/>
+		<PreHero npcid="10003" Armyid="20003" level="1"/>
+		<PreHero npcid="10004" Armyid="20004" level="1"/>
+		<PreHero npcid="10005" Armyid="20005" level="1"/>
+		<PreHero npcid="10006" Armyid="20006" level="1"/>
+		<PreHero npcid="10007" Armyid="20007" level="1"/>
+		<PreHero npcid="10008" Armyid="20008" level="1"/>
+		<PreHero npcid="10009" Armyid="20009" level="1"/>
+		<PreHero npcid="10010" Armyid="20010" level="1"/>
+		<PreHero npcid="10011" Armyid="20011" level="1"/>
+		<PreHero npcid="10012" Armyid="20012" level="1"/>
+		<PreHero npcid="10013" Armyid="20013" level="1"/>
+		<PreHero npcid="10014" Armyid="20014" level="1"/>
+		<PreHero npcid="10015" Armyid="20015" level="1"/>
+		<PreHero npcid="10016" Armyid="20016" level="1"/>
+		<PreHero npcid="10017" Armyid="20017" level="1"/>
+		<PreHero npcid="10018" Armyid="20018" level="1"/>
+		<PreHero npcid="10019" Armyid="20019" level="1"/>
+		<PreHero npcid="10020" Armyid="20020" level="1"/>
+		<PreHero npcid="21000" Armyid="21001" level="1"/>
+		<PreHero npcid="21001" Armyid="21004" level="1"/>
+		<PreHero npcid="21002" Armyid="21001" level="2"/>
+		<PreHero npcid="21003" Armyid="21003" level="2"/>
+		<PreHero npcid="21004" Armyid="21004" level="2"/>
+		<PreHero npcid="21005" Armyid="21001" level="3"/>
+		<PreHero npcid="21006" Armyid="21004" level="3"/>
+		<PreHero npcid="21007" Armyid="20056" level="3"/>
+		<PreHero npcid="21008" Armyid="21001" level="4"/>
+		<PreHero npcid="21009" Armyid="21004" level="4"/>
+		<PreHero npcid="21010" Armyid="20094" level="4"/>
+		<PreHero npcid="21011" Armyid="21003" level="5"/>
+		<PreHero npcid="21012" Armyid="21004" level="5"/>
+		<PreHero npcid="21013" Armyid="20094" level="5"/>
+		<PreHero npcid="21014" Armyid="20069" level="5"/>
+	</Npclist>
+</NpcConfig>

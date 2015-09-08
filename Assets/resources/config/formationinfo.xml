@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FormationConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Formation>
+    <name>f1</name>
+
+    <PreHeropositionList>
+      <PreHeroposition  x="0" y="1" Heroid="10001" Job="4"/>
+      <PreHeroposition  x="1" y="1" Heroid="10001" Job="6"/>
+      <PreHeroposition  x="2" y="1" Heroid="10001" Job="6"/>
+      <PreHeroposition  x="3" y="1" Heroid="10001" Job="6"/>
+      <PreHeroposition  x="2" y="0" Heroid="10002" Job="2"/>
+      <PreHeroposition  x="1" y="3" Heroid="10003" Job="6"/>
+      <PreHeroposition  x="2" y="3" Heroid="10003" Job="6"/>
+      <PreHeroposition  x="4" y="1" Heroid="10004" Job="6"/>
+      <PreHeroposition  x="4" y="2" Heroid="10004" Job="6"/>
+      <PreHeroposition  x="4" y="3" Heroid="10004" Job="6"/>
+     </PreHeropositionList>
+  </Formation>
+  <Formation>
+    <name>f2</name>
+    <skilCommandList>
+      <skilCommand  performer="1"  Conditions="T|10.0"   Target="JP|1"/>
+     </skilCommandList>
+
+    <PreHeropositionList>
+      <PreHeroposition  x="0" y="0" Heroid="10005" Job="6"/>
+      <PreHeroposition  x="1" y="0" Heroid="10005" Job="6"/>
+      <PreHeroposition  x="2" y="0" Heroid="10005" Job="6"/>
+      <PreHeroposition  x="3" y="0" Heroid="10005" Job="6"/>
+      <PreHeroposition  x="0" y="2" Heroid="10006" Job="6"/>
+      <PreHeroposition  x="0" y="3" Heroid="10006" Job="6"/>
+      <PreHeroposition  x="1" y="3" Heroid="10007" Job="6"/>
+      <PreHeroposition  x="2" y="3" Heroid="10008" Job="1"/>
+      <PreHeroposition  x="3" y="2" Heroid="10008" Job="6"/>
+      <PreHeroposition  x="3" y="3" Heroid="10008" Job="6"/>
+     </PreHeropositionList>
+  </Formation>
+  <Formation>
+    <name>f3</name>
+
+    <PreHeropositionList>
+      <PreHeroposition  x="1" y="1" Heroid="10001" Job="6"/>
+      <PreHeroposition  x="2" y="1" Heroid="10001" Job="6"/>
+      <PreHeroposition  x="3" y="1" Heroid="10001" Job="6"/>
+      <PreHeroposition  x="2" y="0" Heroid="10008" Job="2"/>
+      <PreHeroposition  x="1" y="3" Heroid="10008" Job="6"/>
+      <PreHeroposition  x="2" y="3" Heroid="10008" Job="6"/>
+      <PreHeroposition  x="3" y="3" Heroid="10008" Job="4"/>
+      <PreHeroposition  x="4" y="1" Heroid="10004" Job="6"/>
+      <PreHeroposition  x="4" y="2" Heroid="10004" Job="6"/>
+      <PreHeroposition  x="4" y="3" Heroid="10004" Job="6"/>
+     </PreHeropositionList>
+  </Formation>
+  <Formation>
+    <name>f4</name>
+
+    <skilCommandList>
+      <skilCommand  performer="2"  Conditions="T|10.0"   Target=""/>
+     </skilCommandList>
+    <PreHeropositionList>
+      <PreHeroposition  x="0" y="1" Heroid="10002" Job="2"/>
+      <PreHeroposition  x="1" y="1" Heroid="10001" Job="6"/>
+      <PreHeroposition  x="2" y="1" Heroid="10001" Job="6"/>
+      <PreHeroposition  x="3" y="1" Heroid="10001" Job="6"/>
+      <PreHeroposition  x="4" y="1" Heroid="10001" Job="6"/>
+      <PreHeroposition  x="1" y="0" Heroid="10003" Job="6"/>
+      <PreHeroposition  x="2" y="0" Heroid="10003" Job="6"/>
+      <PreHeroposition  x="3" y="0" Heroid="10003" Job="6"/>
+      <PreHeroposition  x="4" y="0" Heroid="10003" Job="6"/>
+      <PreHeroposition  x="0" y="0" Heroid="10003" Job="6"/>
+     </PreHeropositionList>
+  </Formation>
+  <Formation>
+    <name>f5</name>
+
+    <PreHeropositionList>
+      <PreHeroposition  x="0" y="1" Heroid="10001" Job="6"/>
+      <PreHeroposition  x="1" y="1" Heroid="10001" Job="6"/>
+      <PreHeroposition  x="2" y="1" Heroid="10008" Job="2"/>
+      <PreHeroposition  x="3" y="1" Heroid="10001" Job="6"/>
+      <PreHeroposition  x="4" y="1" Heroid="10001" Job="6"/>
+      <PreHeroposition  x="1" y="2" Heroid="10003" Job="4"/>
+      <PreHeroposition  x="2" y="2" Heroid="10003" Job="6"/>
+      <PreHeroposition  x="3" y="2" Heroid="10003" Job="6"/>
+      <PreHeroposition  x="4" y="2" Heroid="10003" Job="6"/>
+      <PreHeroposition  x="0" y="2" Heroid="10003" Job="6"/>
+     </PreHeropositionList>
+  </Formation>
+  <Formation>
+    <name>f6</name>
+
+     <skilCommandList>
+      <skilCommand  performer="1"  Conditions="T|7.0"   Target=""/>
+      <skilCommand  performer="2"  Conditions="T|10.0"   Target="JP|1"/>
+     </skilCommandList>
+    <PreHeropositionList>
+      <PreHeroposition  x="0" y="2" Heroid="10008" Job="1"/>
+      <PreHeroposition  x="0" y="3" Heroid="10008" Job="6"/>
+      <PreHeroposition  x="1" y="1" Heroid="10009" Job="2"/>
+      <PreHeroposition  x="1" y="0" Heroid="10008" Job="6"/>
+      <PreHeroposition  x="2" y="0" Heroid="10008" Job="6"/>
+      <PreHeroposition  x="3" y="0" Heroid="10008" Job="6"/>
+      <PreHeroposition  x="2" y="1" Heroid="10007" Job="6"/>
+      <PreHeroposition  x="3" y="1" Heroid="10007" Job="6"/>
+      <PreHeroposition  x="4" y="2" Heroid="10008" Job="6"/>
+      <PreHeroposition  x="4" y="3" Heroid="10008" Job="6"/>
+     </PreHeropositionList>
+  </Formation>
+<Formation>
+    <name>1</name>
+
+    <PreHeropositionList>
+      <PreHeroposition  x="1" y="0" Heroid="21000" Job="6"/>
+      <PreHeroposition  x="2" y="0" Heroid="21000" Job="6"/>
+      <PreHeroposition  x="0" y="2" Heroid="21001" Job="6"/>
+      <PreHeroposition  x="1" y="2" Heroid="21001" Job="6"/>
+      <PreHeroposition  x="2" y="2" Heroid="21001" Job="6"/>
+     </PreHeropositionList>
+  </Formation>
+<Formation>
+    <name>2</name>
+
+    <PreHeropositionList>
+      <PreHeroposition  x="0" y="0" Heroid="21002" Job="6"/>
+      <PreHeroposition  x="1" y="0" Heroid="21003" Job="6"/>
+      <PreHeroposition  x="2" y="0" Heroid="21002" Job="6"/>
+      <PreHeroposition  x="0" y="2" Heroid="21004" Job="6"/>
+      <PreHeroposition  x="1" y="2" Heroid="21004" Job="6"/>
+      <PreHeroposition  x="2" y="2" Heroid="21004" Job="6"/>
+     </PreHeropositionList>
+</Formation>
+  <Formation>
+<name>3</name>
+
+    <PreHeropositionList>
+      <PreHeroposition  x="1" y="1" Heroid="21007" Job="2"/>
+      <PreHeroposition  x="1" y="0" Heroid="21005" Job="6"/>
+      <PreHeroposition  x="2" y="0" Heroid="21005" Job="6"/>
+      <PreHeroposition  x="0" y="2" Heroid="21006" Job="6"/>
+      <PreHeroposition  x="1" y="2" Heroid="21006" Job="6"/>
+      <PreHeroposition  x="2" y="2" Heroid="21006" Job="6"/>
+     </PreHeropositionList>
+  </Formation>
+<Formation>
+<name>4</name>
+
+    <PreHeropositionList>
+      <PreHeroposition  x="1" y="1" Heroid="21010" Job="2"/>
+      <PreHeroposition  x="1" y="0" Heroid="21008" Job="6"/>
+      <PreHeroposition  x="2" y="0" Heroid="21008" Job="6"/>
+      <PreHeroposition  x="0" y="2" Heroid="21009" Job="6"/>
+      <PreHeroposition  x="1" y="2" Heroid="21009" Job="6"/>
+      <PreHeroposition  x="2" y="2" Heroid="21009" Job="6"/>
+     </PreHeropositionList>
+  </Formation>
+<Formation>
+<name>5</name>
+
+    <PreHeropositionList>
+      <PreHeroposition  x="1" y="1" Heroid="21013" Job="2"/>
+      <PreHeroposition  x="0" y="0" Heroid="21011" Job="6"/>
+      <PreHeroposition  x="1" y="0" Heroid="21014" Job="1"/>
+      <PreHeroposition  x="2" y="0" Heroid="21011" Job="6"/>
+      <PreHeroposition  x="0" y="2" Heroid="21012" Job="6"/>
+      <PreHeroposition  x="1" y="2" Heroid="21012" Job="6"/>
+      <PreHeroposition  x="2" y="2" Heroid="21012" Job="6"/>
+     </PreHeropositionList>
+  </Formation>
+
+</FormationConfig>

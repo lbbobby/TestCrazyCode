@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArmyAgainst xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Army typeid="1" name="骑兵">
+    //骑兵
+    <power targetType="2" powerChange="1300" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="800" />
+  </Army>
+  <Army typeid="2" name="刀盾">
+    <power targetType="4" powerChange="1300" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="600" />
+  </Army>
+  <Army typeid="3" name="枪">
+    <power targetType="1" powerChange="1300" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="11" powerChange="1300" />
+    <power targetType="16" powerChange="600" />
+  </Army>
+  <Army typeid="4" name="弓">
+    <power targetType="3" powerChange="1300" />
+    <power targetType="2" powerChange="600" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="200" />
+  </Army>
+  <Army typeid="5" name="弩">
+    <power targetType="3" powerChange="1300" />
+    <power targetType="2" powerChange="600" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="200" />
+  </Army>
+  <Army typeid="6" name="象">
+    <power targetType="0" powerChange="1200" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="600" />
+  </Army>
+  <Army typeid="7" name="冲车">
+    <power targetType="0" powerChange="1300" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="600" />
+  </Army>
+  <Army typeid="8" name="西凉铁骑">
+    <power targetType="2" powerChange="1300" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="800" />
+  </Army>
+  <Army typeid="9" name="虎豹骑">
+    <power targetType="2" powerChange="1300" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="800" />
+  </Army>
+  <Army typeid="10" name="银翎飞骑">
+    <power targetType="2" powerChange="1300" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="800" />
+  </Army>
+  <Army typeid="11" name="白马义从">
+    <power targetType="3" powerChange="1300" />
+    <power targetType="2" powerChange="600" />
+    <power targetType="8" powerChange="1100" />
+    <power targetType="9" powerChange="1100" />
+    <power targetType="16" powerChange="200" />
+  </Army>
+  <Army typeid="12" name="无当飞军">
+    <power targetType="3" powerChange="1300" />
+    <power targetType="2" powerChange="600" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="200" />
+  </Army>
+  <Army typeid="13" name="长弓">
+    <power targetType="3" powerChange="1300" />
+    <power targetType="2" powerChange="600" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="200" />
+  </Army>
+  <Army typeid="14" name="连弩">
+    <power targetType="3" powerChange="1300" />
+    <power targetType="2" powerChange="600" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="200" />
+  </Army>
+  <Army typeid="15" name="先登死士">
+    <power targetType="3" powerChange="1300" />
+    <power targetType="2" powerChange="600" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="600" />
+  </Army>
+  <Army typeid="16" name="藤甲兵">
+    <power targetType="3" powerChange="1300" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="600" />
+  </Army>
+  <Army typeid="17" name="陷阵营">
+    <power targetType="3" powerChange="1300" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="600" />
+  </Army>
+  <Army typeid="18" name="虎卫军">
+    <power targetType="3" powerChange="1300" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="600" />
+  </Army>
+  <Army typeid="19" name="大戟士">
+    <power targetType="1" powerChange="1300" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="11" powerChange="1300" />
+    <power targetType="16" powerChange="600" />
+  </Army>
+  <Army typeid="20" name="白眊兵">
+    <power targetType="1" powerChange="1300" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="11" powerChange="1300" />
+    <power targetType="16" powerChange="600" />
+  </Army>
+  <Army typeid="21" name="青州兵">
+    <power targetType="3" powerChange="1300" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="11" powerChange="1300" />
+    <power targetType="16" powerChange="600" />
+  </Army>
+  <Army typeid="22" name="投石车">
+    <power targetType="0" powerChange="1100" />
+    <power targetType="8" powerChange="900" />
+    <power targetType="9" powerChange="900" />
+    <power targetType="16" powerChange="600" />
+  </Army>
+  漏掉没有配置的都是1000
+  targetType =0 是攻城强度
+</ArmyAgainst>

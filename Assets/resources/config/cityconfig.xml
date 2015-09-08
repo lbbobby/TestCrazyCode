@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CityConfig>
+	<CityInfolist>
+		<CityInfo Cityid="city1" name="白帝城" CityType="4" OpenGrade="0" OpenCity="&quot;&quot;" IconName="city_0" Levels="L1"/>
+		<CityInfo Cityid="city2" name="汉中" CityType="5" OpenGrade="0" OpenCity="city1" IconName="city_1" Levels="L2"/>
+		<CityInfo Cityid="city3" name="剑阁" CityType="3" OpenGrade="0" OpenCity="city2" IconName="city_2" Levels="L3"/>
+		<CityInfo Cityid="city4" name="成都" CityType="1" OpenGrade="0" OpenCity="city3" IconName="city_4" Levels="L4,L5"/>
+		<CityInfo Cityid="city5" name="街亭" CityType="4" OpenGrade="0" OpenCity="city4" IconName="city_0" Levels="L6"/>
+		<CityInfo Cityid="city6" name="五丈原" CityType="2" OpenGrade="0" OpenCity="city5" IconName="city_1" Levels="L7"/>
+		<CityInfo Cityid="city7" name="定军山" CityType="3" OpenGrade="0" OpenCity="city6" IconName="city_2" Levels="L8"/>
+		<CityInfo Cityid="city8" name="长安" CityType="1" OpenGrade="0" OpenCity="city7" IconName="city_4" Levels="L9"/>
+		<CityInfo Cityid="city9" name="广宗" CityType="4" OpenGrade="0" OpenCity="city8" IconName="city_0" Levels="L10"/>
+		<CityInfo Cityid="city10" name="曲阳" CityType="5" OpenGrade="0" OpenCity="city9" IconName="city_1" Levels="L11"/>
+		<CityInfo Cityid="city11" name="虎牢关" CityType="3" OpenGrade="0" OpenCity="city10" IconName="city_2" Levels="L12"/>
+		<CityInfo Cityid="city12" name="涿郡" CityType="1" OpenGrade="0" OpenCity="city11" IconName="city_4" Levels="L13"/>
+		<CityInfo Cityid="city13" name="界桥" CityType="4" OpenGrade="0" OpenCity="city12" IconName="city_0" Levels="L14"/>
+		<CityInfo Cityid="city14" name="官渡" CityType="2" OpenGrade="0" OpenCity="city13" IconName="city_1" Levels="L15"/>
+		<CityInfo Cityid="city15" name="易京" CityType="3" OpenGrade="0" OpenCity="city14" IconName="city_2" Levels="L16"/>
+		<CityInfo Cityid="city16" name="南皮" CityType="1" OpenGrade="0" OpenCity="city15" IconName="city_4" Levels="L17"/>
+		<CityInfo Cityid="city17" name="平原" CityType="4" OpenGrade="0" OpenCity="city16" IconName="city_0" Levels="L18"/>
+		<CityInfo Cityid="city18" name="小沛" CityType="5" OpenGrade="0" OpenCity="city17" IconName="city_1" Levels="L19"/>
+		<CityInfo Cityid="city19" name="北海" CityType="3" OpenGrade="0" OpenCity="city18" IconName="city_2" Levels="L20"/>
+		<CityInfo Cityid="city20" name="青州" CityType="1" OpenGrade="0" OpenCity="city19" IconName="city_4" Levels="L21"/>
+		<CityInfo Cityid="city21" name="下邳" CityType="4" OpenGrade="0" OpenCity="city20" IconName="city_0" Levels="L22"/>
+		<CityInfo Cityid="city22" name="合肥" CityType="2" OpenGrade="0" OpenCity="city21" IconName="city_1" Levels="L23"/>
+		<CityInfo Cityid="city23" name="京口" CityType="3" OpenGrade="0" OpenCity="city22" IconName="city_2" Levels="L24"/>
+		<CityInfo Cityid="city24" name="彭城" CityType="1" OpenGrade="0" OpenCity="city23" IconName="city_4" Levels="L25"/>
+		<CityInfo Cityid="city25" name="樊城" CityType="4" OpenGrade="0" OpenCity="city24" IconName="city_0" Levels="L26"/>
+		<CityInfo Cityid="city26" name="夷陵" CityType="5" OpenGrade="0" OpenCity="city25" IconName="city_1" Levels="L27"/>
+		<CityInfo Cityid="city27" name="长坂" CityType="3" OpenGrade="0" OpenCity="city26" IconName="city_2" Levels="L28"/>
+		<CityInfo Cityid="city28" name="江陵" CityType="1" OpenGrade="0" OpenCity="city27" IconName="city_4" Levels="L29"/>
+		<CityInfo Cityid="city29" name="姑苏" CityType="4" OpenGrade="0" OpenCity="city28" IconName="city_0" Levels="L30"/>
+		<CityInfo Cityid="city30" name="江夏" CityType="2" OpenGrade="0" OpenCity="city29" IconName="city_1" Levels="L31"/>
+		<CityInfo Cityid="city31" name="赤壁" CityType="3" OpenGrade="0" OpenCity="city30" IconName="city_2" Levels="L32"/>
+		<CityInfo Cityid="city32" name="建业" CityType="1" OpenGrade="0" OpenCity="city31" IconName="city_4" Levels="L33"/>
+		<CityInfo Cityid="city33" name="洛阳" CityType="4" OpenGrade="0" OpenCity="city32" IconName="city_0" Levels="L34"/>
+		<CityInfo Cityid="city34" name="颍川" CityType="2" OpenGrade="0" OpenCity="city33" IconName="city_1" Levels="L35"/>
+		<CityInfo Cityid="city35" name="新野" CityType="3" OpenGrade="0" OpenCity="city34" IconName="city_2" Levels="L36"/>
+		<CityInfo Cityid="city36" name="许都" CityType="1" OpenGrade="0" OpenCity="city35" IconName="city_4" Levels="L37"/>
+		<CityInfo Cityid="city37" name="古战场" CityType="6" OpenGrade="0" OpenCity="city8" IconName="city_0" Levels="L101,L102,L103,L104,L105,L106,L107"/>
+	</CityInfolist>
+</CityConfig>

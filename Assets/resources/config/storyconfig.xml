@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StoryConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StoryInfolist>
+    <StoryInfo Storyid="01" name="大战天灾军团1" Des="dota 穿越三国" OpenLevel="" OpenStory="" City="02" IsHide="true"
+	LevelList="l1,l2,l3"/>
+	    <StoryInfo Storyid="02" name="大战天灾军团2" Des="dota 又穿越三国" OpenLevel="" OpenStory="" City="02" IsHide="false"
+	LevelList="l1,l2,l3"/>
+	    <StoryInfo Storyid="03" name="大战天灾军团3" Des="dota 再穿越三国" OpenLevel="" OpenStory="" City="02"
+		IsHide="true"
+	LevelList="l1,l2,l3"/>
+
+
+</StoryInfolist>
+
+</StoryConfig>

@@ -6,7 +6,7 @@ public class ClientMain : MonoBehaviour
 
     void Start()
     {
-
+        ConfigMgr.Load();
     }
 
     void Update()
